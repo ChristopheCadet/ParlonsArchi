@@ -8,8 +8,8 @@ Read this in other languages: [French](README.fr.md)
 
 This project proposes a generic implementation of genetic algorithms in Java 11 for didactic purposes.
 
-The concepts related to genetic algorithms are explained here: https://www.youtube.com/watch?v=yN4_uylPGu8       
-The available code is explained here: https://www.youtube.com/watch?v=oft-Xnr9Xp0
+The concepts related to genetic algorithms are explained [here](https://www.youtube.com/watch?v=yN4_uylPGu8)       
+The available code is explained [here](https://www.youtube.com/watch?v=oft-Xnr9Xp0)
 
 ## Content 
 

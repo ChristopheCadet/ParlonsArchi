@@ -8,8 +8,8 @@ Lire dans d'autres langages : [English](README.md)
 
 Ce projet propose une implémentation générique d'algorithme génétique en Java 11 dans un but didactique.
 
-Les concepts inhérents aux algorithmes génétiques sont expliqués ici : https://www.youtube.com/watch?v=yN4_uylPGu8       
-Le code mis à disposition est expliqué ici : https://www.youtube.com/watch?v=oft-Xnr9Xp0
+Les concepts inhérents aux algorithmes génétiques sont expliqués [ici](https://www.youtube.com/watch?v=yN4_uylPGu8)       
+Le code mis à disposition est expliqué [ici](https://www.youtube.com/watch?v=oft-Xnr9Xp0)
 
 ## Contenu
 
